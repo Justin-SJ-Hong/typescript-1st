@@ -1,0 +1,1 @@
+# This is typescript-1st in oz coding school
